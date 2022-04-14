@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Stauss
+- 👀 I’m interested in Arificial Intelligence
+- 🌱 I’m currently learning Reactjs
